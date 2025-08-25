@@ -88,3 +88,12 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+  assets:
+      - assets/logotinder.jpg
+      - assets/ale.jpeg
+      - assets/bea.jpeg
+      - assets/guille.jpeg
+      - assets/laia.jpeg
+      - assets/lazaro.jpeg
+      - assets/lucia.jpeg
+      - assets/sergio.jpeg
